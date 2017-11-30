@@ -1,0 +1,1 @@
+let acrum_extra = {"offer_id":796,"type":"prelanding","id":27794,"esub":"-6AAEvAhwDAAAAAAJCLAKSbAEAAgcBAQAEJq9OFwAAAA","ccodes":["VN"]};
